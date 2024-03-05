@@ -1,4 +1,4 @@
 # Mansoor-s-Repository
 this is my first Repository to learn Git and Git Hub
 <br>
-author s.mansoor
+author s.mansoor(started learning git)
